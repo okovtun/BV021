@@ -1,5 +1,5 @@
 https://github.com/okovtun/BV021
-https://www.youtube.com/playlist?list=PLFkgzpHG4CYWNTJgB6ZQ7waGXpb5jg0G2
+https://www.youtube.com/watch?v=q3vDUsUlsZQ&list=PLFkgzpHG4CYWNTJgB6ZQ7waGXpb5jg0G2&index=2&t=1497s
 
 ////////////////////////////////////////////////////////////////////
 /////////////////	Discord: okovtun#7508	////////////////////
