@@ -1,0 +1,30 @@
+0	0000
+1	0001
+2	0010
+3	0011	 99
+4	0100	100
+5	0101
+6	0110
+7	0111
+8	1000
+9	1001
+10	1010
+11	1011
+12	1100
+13	1101
+14	1110
+15	1111
+16      0000
+
+x86:
+IA-16 - Intel Architecture 16 bit; short int
+IA-32 - Intel Architecture 32 bit; long  int
+x86-64				   long long int
+int - Integer (Целое число).
+---------------------------------------------------
+
+Intel Itanium
+IA-64 - NOT x86
+
+https://www.ixbt.com/cpu/cpu-digest-2009.shtml#01
+
