@@ -7,6 +7,18 @@ https://www.youtube.com/watch?v=q3vDUsUlsZQ&list=PLFkgzpHG4CYWNTJgB6ZQ7waGXpb5jg
 
 TODO:
 1. Выучить конспект!!!
+2.	int i=3;
+	i=i++ + 1 + ++i *=2;
+	cout << i << endl;
+
+	int i=3;
+	i += i++ + 1 + ++i *=2;
+	cout << i << endl;
+
+DONE:
+2. Решить задачи из *.pdf-файла.
+
+DONE:
 2. Используя оператор sizeof, и макроопределения Visual Studio вывести в окно консоли информацию о следующих типах данных: long, long long, float, double;
 
 
