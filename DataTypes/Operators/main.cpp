@@ -7,7 +7,9 @@ using std::endl;;
 //#define TERNARY_OPERATOR
 //#define ARITHMETICAL_OPERATORS
 //#define ASSIGNMENT_OPERATOR	//Оператор присваивания
-#define INCREMENT_DECREMENT
+//#define INCREMENT_DECREMENT
+//#define COMPAUND_ASSIGNMENTS
+#define TYPE_CONVERSIONS
 
 void main()
 {
@@ -86,9 +88,45 @@ void main()
 	//cout << i << endl;
 	//cout << j << endl;
 
-	int i = 3;
+	/*int i = 3;
 	i = ++i + i++;
-	cout << (bool)i << endl;
+	cout << (bool)i << endl;*/
+	int i = 3;
+
+	i = ++i *= 2;
+	i += i++ + 1 + i;
+	cout << i << endl;
 #endif // INCREMENT_DECREMENT
 
+#if defined COMPAUND_ASSIGNMENTS
+	int a = 2;
+	int b = 3;
+	a = a + b;	//
+	a += b;
+	//-----------------
+	a = a - b;
+	a -= b;
+	//-----------------
+	a *= b;
+	a /= b;
+	a %= b;
+#endif
+
+	//int a = 43;
+	//cout << a << endl;
+	//cout << (char)a << endl;	//явное преобразование переменной 'a' в тип данных char
+	////cout << a << endl;
+	//cout << typeid(a).name() << endl;
+	//cout << int('@') << endl;
+	//(type)value;	//C-like notation (C-подобная форма записи)
+	//type(value);	//Functional notation (Функциональная форма записи)
+
+	//			Неявные преобразования типов:
+	int a = 2;	//no conversions
+	int b = 3.5;//преобразование от большего к меньшему с потерей данных
+	cout << b << endl;
+	int c = 5.;	//преобразование от большего к меньшему без потери данных
+	double e = 7;//Преобразование от меньшего к большему.
+
+	cout << double(7 / 2) << endl;
 }

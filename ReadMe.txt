@@ -5,7 +5,15 @@ https://www.youtube.com/watch?v=q3vDUsUlsZQ&list=PLFkgzpHG4CYWNTJgB6ZQ7waGXpb5jg
 /////////////////	Discord: okovtun#7508	////////////////////
 ////////////////////////////////////////////////////////////////////
 
+//-----------------------------------------------------------------//
+//			Operators
+http://cplusplus.com/doc/tutorial/operators/
+
 TODO:
+1. Выучить теорию!!!!!!!!!!
+2. Решить задчи в ControlStructures\Task\if tasks.txt
+
+DONE:
 1. Выучить конспект!!!
 2.	int i=3;
 	i=i++ + 1 + ++i *=2;
