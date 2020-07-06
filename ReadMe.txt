@@ -10,6 +10,10 @@ https://www.youtube.com/watch?v=q3vDUsUlsZQ&list=PLFkgzpHG4CYWNTJgB6ZQ7waGXpb5jg
 http://cplusplus.com/doc/tutorial/operators/
 
 TODO:
+1. Обеспечить выход из цикла нажатием клавиши Escape;
+2. Написать программу "Shooter", которая, при нажатии на соответстующую клавишу WASD выводит на экран слово: "Вперед", "Назад", "Влево", "Вправо", Space - Прыжок, Enter - Огонь.
+
+DONE:
 1. Выучить теорию!!!!!!!!!!
 2. Решить задчи в ControlStructures\Task\if tasks.txt
 
