@@ -10,6 +10,9 @@ https://www.youtube.com/watch?v=q3vDUsUlsZQ&list=PLFkgzpHG4CYWNTJgB6ZQ7waGXpb5jg
 http://cplusplus.com/doc/tutorial/operators/
 
 TODO:
+1. Написать программу, которая определяет, является ли введенное число Палиндромом. 12321, 1221.
+
+DONE:
 1. Обеспечить выход из цикла нажатием клавиши Escape;
 2. Написать программу "Shooter", которая, при нажатии на соответстующую клавишу WASD выводит на экран слово: "Вперед", "Назад", "Влево", "Вправо", Space - Прыжок, Enter - Огонь.
 
