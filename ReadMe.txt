@@ -10,6 +10,9 @@ https://www.youtube.com/watch?v=q3vDUsUlsZQ&list=PLFkgzpHG4CYWNTJgB6ZQ7waGXpb5jg
 http://cplusplus.com/doc/tutorial/operators/
 
 TODO:
+Написать программу, которая возводит число в степень. Основание и показатель степени вводятся с клавиатуры.
+
+DONE:
 1. Написать программу, которая определяет, является ли введенное число Палиндромом. 12321, 1221.
 
 DONE:
