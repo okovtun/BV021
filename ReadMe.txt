@@ -10,6 +10,12 @@ https://www.youtube.com/watch?v=q3vDUsUlsZQ&list=PLFkgzpHG4CYWNTJgB6ZQ7waGXpb5jg
 http://cplusplus.com/doc/tutorial/operators/
 
 TODO:
+1. Вывести таблицу ASCII-символов по 16 символов в строке, разделяя их пробелом;
+2. Вывести на экран таблицу Пифагора;
+3. Вывести в консоль все фигуры из файла Geometria.txt
+
+
+DONE:
 Написать программу, которая возводит число в степень. Основание и показатель степени вводятся с клавиатуры.
 
 DONE:
