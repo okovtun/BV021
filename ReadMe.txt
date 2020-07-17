@@ -1,5 +1,7 @@
 https://github.com/okovtun/BV021
 https://www.youtube.com/watch?v=q3vDUsUlsZQ&list=PLFkgzpHG4CYWNTJgB6ZQ7waGXpb5jg0G2&index=2&t=1497s
+https://www.youtube.com/watch?v=18c3MTX0PK0&list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb
+https://drive.google.com/drive/folders/0By6mLf1ZlXtTTXhLd3k0dnB0UVk?usp=sharing
 
 ////////////////////////////////////////////////////////////////////
 /////////////////	Discord: okovtun#7508	////////////////////
@@ -10,6 +12,16 @@ https://www.youtube.com/watch?v=q3vDUsUlsZQ&list=PLFkgzpHG4CYWNTJgB6ZQ7waGXpb5jg
 http://cplusplus.com/doc/tutorial/operators/
 
 TODO:
+1. Добить задачку про unsigned char;
+2. 
+	+ - + - +
+	- + - + -
+	+ - + - +
+	- + - + -
+	+ - + - +
+
+
+DONE:
 1. Вывести таблицу ASCII-символов по 16 символов в строке, разделяя их пробелом;
 2. Вывести на экран таблицу Пифагора;
 3. Вывести в консоль все фигуры из файла Geometria.txt

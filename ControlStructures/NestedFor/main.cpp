@@ -4,8 +4,8 @@ using namespace std;
 
 #define tab "\t"
 
-//#define CLOCK
-#define MULTIPLICATION_TABLE
+#define CLOCK
+//#define MULTIPLICATION_TABLE
 
 void main()
 {
@@ -24,7 +24,7 @@ void main()
 			cout << i << ":";
 			if (j < 10)cout << 0;
 			cout << j << endl;
-			Sleep(1000);
+			Sleep(100);
 		}
 	}
 #endif // CLOCK
