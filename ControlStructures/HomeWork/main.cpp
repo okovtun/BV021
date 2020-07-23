@@ -1,14 +1,30 @@
-#include <iostream>;
+#include <iostream>
 using namespace std;
 
-void main() {
+void main()
+{
+	setlocale(LC_ALL, "");
 	int n;
-	cout << "Input number: "; cin >> n;
-	for (int i = 0; i < n; i++) {
-		for (int z = 1; z <= n; z++) {
-			for (int j = 1; j <= n; j++) {
-				for (int k = 1; k <= n; k++) {
-					cout << ((i + j) % 2 ? "* " : "  ");
+	cout << "¬ведите ширину квадрата: "; cin >> n;
+	for (int i = 0; i < n; i++)
+	{
+		for (int l = 0; l < n; l++)
+		{
+			for (int j = 0; j < n; j++)
+			{
+				if ((i + j) % 2 == 0)
+				{
+					for (int j = 0; j < n; j++)
+					{
+						cout << "  ";
+					}
+				}
+				else
+				{
+					for (int j = 0; j < n; j++)
+					{
+						cout << "+ ";
+					}
 				}
 			}
 			cout << endl;

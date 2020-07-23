@@ -3,15 +3,28 @@ https://www.youtube.com/watch?v=q3vDUsUlsZQ&list=PLFkgzpHG4CYWNTJgB6ZQ7waGXpb5jg
 https://www.youtube.com/watch?v=18c3MTX0PK0&list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb
 https://drive.google.com/drive/folders/0By6mLf1ZlXtTTXhLd3k0dnB0UVk?usp=sharing
 
+
 ////////////////////////////////////////////////////////////////////
 /////////////////	Discord: okovtun#7508	////////////////////
 ////////////////////////////////////////////////////////////////////
+
+TODO:
+Объявить массив из пяти элементов. 
+1. Ввести значения его элементов с клавиатуры;
+2. Вывести их на экран в прямом и обратном порядке (одна строка в прямом, под ней в обратном);
+3. Вычислить сумму элементов массива;
+4. Вычислить среднее арифметическое элементов массива;
+5. Найти минимальное и максимальное значение в массиве, и вывести их на экран.
+
 
 //-----------------------------------------------------------------//
 //			Operators
 http://cplusplus.com/doc/tutorial/operators/
 
-TODO:
+DONE:
+HardChess.txt
+
+DONE:
 1. Добить задачку про unsigned char;
 2. 
 	+ - + - +
@@ -19,6 +32,9 @@ TODO:
 	+ - + - +
 	- + - + -
 	+ - + - +
+n^2 n XOR 2
+n*n
+pow(n, 2);
 
 
 DONE:
